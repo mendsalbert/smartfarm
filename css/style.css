@@ -64,6 +64,8 @@ button.btn-secondary:hover{
 }
 .navbar-expand-lg.top-nav .navbar-nav .nav-link:hover{
 	background: #4eae3a;
+	margin-left: 20px;
+	margin-right: 20px;
 	color: #ffffff;
 	border-radius: 4.8px;
 }
